@@ -5,3 +5,7 @@
 - beyond that i am unsure
 
 - big love ❤️
+
+_for the goofs_
+
+![michaelhazan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelhazan&show_icons=true&theme=radical)
